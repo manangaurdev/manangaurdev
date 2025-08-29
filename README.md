@@ -11,15 +11,19 @@
 </p>
 
 # Hey, I’m Manan 👋
-
 Data Analytics → ML/MLOps/AI. I build projects with clear results and reproducible code.
 
 **Portfolio:** **[manangaurdev/portfolio](https://github.com/manangaurdev/portfolio)**
 
 ## Highlights
 - 📊 Data viz that tells a story
-- 🤖 Small, practical Gen AI tools
+- 🤖 Practical Gen AI tools
 - 🧠 ML projects end-to-end
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manangaurdev&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manangaurdev&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
