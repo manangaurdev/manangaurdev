@@ -19,7 +19,7 @@
 ---
 
 ## About me
-- Data Analytics → ML/MLOps/AI  
+- Data Analytics -> Analytics Engineer -> MLOps Engineer -> AI Architect -> AI Product Manager  
 - I build small, useful AI projects with measurable outcomes  
 - Open to roles in Germany
 
